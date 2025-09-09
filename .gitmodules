@@ -1,8 +1,0 @@
-[submodule "modules/nyl-foundation"]
-	path = modules/nyl-foundation
-	url = https://github.com/anroy90/nyl-foundation-dedicated.git
-	branch = main
-[submodule "modules/nylim"]
-	path = modules/nylim
-	url = https://github.com/anroy90/nylim-dedicated.git
-	branch = main

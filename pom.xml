@@ -29,9 +29,9 @@
       
   <description>NYL Aggregator Project</description>
       
- <!-- <modules>
+ <modules>
             
-    <module>all</module>
+    <!-- <module>all</module>
             
     <module>core</module>
             
@@ -51,13 +51,8 @@
 	
 	<module>dispatcher.cloud</module>
             
-    <module>ui.tests</module>
-      
-   <module>modules/nyl-foundation</module>
-  <module>modules/nylim</module>
- </modules>-->
-  <modules>  
-  
+    <module>ui.tests</module>-->
+	
  </modules>
       
   <properties>

@@ -53,8 +53,12 @@
             
     <module>ui.tests</module>
       
-  </modules>-->
-  <modules> </modules>
+   <module>modules/nyl-foundation</module>
+  <module>modules/nylim</module>
+ </modules>-->
+  <modules>  
+  
+ </modules>
       
   <properties>
             

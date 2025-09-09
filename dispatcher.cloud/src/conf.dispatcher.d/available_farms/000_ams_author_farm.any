@@ -1,6 +1,7 @@
 /authorfarm {  
 	# client headers which should be passed through to the render instances
 	# (feature supported since dispatcher build 2.6.3.5222)
+	#NYL Foundation
 	/clientheaders {
 		$include "../clientheaders/ams_author_clientheaders.any"
 		$include "../clientheaders/ams_common_clientheaders.any"
